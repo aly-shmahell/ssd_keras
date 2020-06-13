@@ -4,7 +4,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+udacity_driving_datasets/
+udacity_driving_datasets.zip
+**/udacity_driving_datasets.zip
 # C extensions
 *.so
 
